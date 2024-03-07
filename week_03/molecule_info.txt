@@ -1,0 +1,3 @@
+Molecule: Ethanol
+Image URL: https://github.com/alexlauris/ppchem/blob/main/ethanol.png
+Description: Ethanol (also called ethyl alcohol, grain alcohol, drinking alcohol, or simply alcohol) is an organic compound with the chemical formula CH3CH2OH.
